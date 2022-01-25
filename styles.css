@@ -21,7 +21,7 @@
 
 
 body{
-    height: 100vh;
+    height: 200vh;
     width: 100vw;
     background-color: var(--veryDarkBlueMainBG);
     font-family: var(--Inter);
